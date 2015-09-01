@@ -1,0 +1,36 @@
+h1{
+	color: blue;
+} /*tag selector*/
+
+.MyName {
+	position: relative;
+    left: 30px;
+}/*class*/
+
+img {
+	height: 150px;
+	width: 100px ;
+}
+
+#Mexican {
+	color: green;
+}/*ID*/
+
+
+p {
+	color:purple;
+}
+
+.yums li {
+	font-size: 20px;
+	color: green;
+	font-style: italic;
+	font-size: 30px;
+}
+
+#India {
+	font-size: 50px;
+	color: orange;
+}/*combination selectors*/
+
+
